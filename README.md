@@ -1,5 +1,5 @@
 # BrainTumorSegmentation
-Final Bsc project, semanting segmentaion of brain tumor from MRI scans using deep learning.
+Final Bsc project, semantic segmentaion of brain tumor from MRI scans using deep learning.
 
 Brain tumor is a state in which cells form in an abnormal way and without supervision.
 In order to evaluate the disease’s progression and give suitable treatment a 3D MRI scan is used. In current clinical routine, the resulting images are evaluated based on qualitative criteria manually.
